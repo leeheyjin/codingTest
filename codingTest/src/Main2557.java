@@ -1,4 +1,4 @@
-package codingTest;
+
 
 public class Main2557 {
 	public static void main(String[] args) {
